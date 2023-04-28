@@ -32,5 +32,8 @@ ir_datasets.registry.register(
             ),
             lang="en",
         ),
+        TrecQrels(ir_datasets.util.Download([RequestsDownload(DATASET_URL + 'anthology-qrels.txt')],
+                                            ),
+                  {0: 'Not Relevant', 1: 'Relevant'})
     ),
 )
