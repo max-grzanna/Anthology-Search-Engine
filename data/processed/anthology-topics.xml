@@ -7,7 +7,7 @@
       jumping or jumps over something that is not an animal are not relevant.</narrative>
   </topic>
   <topic number="2">
-    <title>multiple animals including a zebra</title>
+    <title>Information Retrieval</title>
     <description>Which paper talk about Information Retrieval?</description>
     <narrative>Relevant paper have at least one mention of Information Retrieval. Paper containing only Information or Retrieval are not relevant.</narrative>
   </topic>
