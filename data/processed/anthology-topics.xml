@@ -1,4 +1,3 @@
-<!-- TODO: Create topics that represent several information needs. Create one topic per group member. -->
 <topics>
   <topic number="1">
     <title>Deep Neural Networks</title>
@@ -11,7 +10,6 @@
     <narrative>Relevant paper have at least one mention of Information Retrieval. Paper containing only Information or Retrieval are not relevant.</narrative>
   </topic>
   
-  <!-- Maximilian Töpfer 3775221 -->
   <topic number="3">
     <title>Analysis for Android apps</title>
     <description>Which papers talk about the analysis of android apps?</description>
@@ -23,6 +21,7 @@
     <narrative>Relevant papers are created or at least co-written by the University of Amsterdam. Paper containing only
       University not relevant.</narrative>
   </topic>
+  <!-- Max Grzanna 3795702 -->
    <topic number="5">
     <title>Neural Ranking for eCommerce Product Search</title>
     <description>Which paper is about Ranking Product Search and its applications in eCommerce?</description>
