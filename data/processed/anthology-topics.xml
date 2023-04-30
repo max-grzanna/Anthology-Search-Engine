@@ -1,10 +1,9 @@
 <!-- TODO: Create topics that represent several information needs. Create one topic per group member. -->
 <topics>
   <topic number="1">
-    <title>fox jumps above animal</title>
-    <description>What pangrams have a fox jumping above some animal?</description>
-    <narrative>Relevant pangrams have a fox jumping over an animal (e.g., an dog). Pangrams containing a fox that is not
-      jumping or jumps over something that is not an animal are not relevant.</narrative>
+    <title>Deep Neural Networks</title>
+    <description>Which papers talk about Deep Neural Networks?</description>
+    <narrative>Relevant paper have at least one mention of Deep Neural. Paper containing only Deep or Neural are not relevant.</narrative>
   </topic>
   <topic number="2">
     <title>Information Retrieval</title>
