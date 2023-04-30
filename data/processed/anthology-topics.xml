@@ -3,29 +3,29 @@
   <topic number="1">
     <title>Deep Neural Networks</title>
     <description>Which papers talk about Deep Neural Networks?</description>
-    <narrative>Relevant paper have at least one mention of Deep Neural. Paper containing only Deep or Neural are not relevant.</narrative>
+    <narrative>Relevant papers have at least one mention of Deep Neural. Paper containing only Deep or Neural are not relevant.</narrative>
   </topic>
   <topic number="2">
     <title>Information Retrieval</title>
-    <description>Which paper talk about Information Retrieval?</description>
+    <description>Which papers talk about Information Retrieval?</description>
     <narrative>Relevant paper have at least one mention of Information Retrieval. Paper containing only Information or Retrieval are not relevant.</narrative>
   </topic>
   
   <!-- Maximilian Töpfer 3775221 -->
   <topic number="3">
     <title>Analysis for Android apps</title>
-    <description>Which paper talk about the analysis of android apps?</description>
-    <narrative>Relevant paper talk at least in one line about android apps. Paper containing only apps are not relevant.</narrative>
+    <description>Which papers talk about the analysis of android apps?</description>
+    <narrative>Relevant papers talk at least in one line about android apps. Paper containing only apps are not relevant.</narrative>
   </topic>
   <topic number="4">
     <title>The University of Amsterdam</title>
-    <description>Which paper are created by the University of Amsterdam?</description>
-    <narrative>Relevant paper are created or at least co-written by the University of Amsterdam. Paper containing only
+    <description>Which papers are created by the University of Amsterdam?</description>
+    <narrative>Relevant papers are created or at least co-written by the University of Amsterdam. Paper containing only
       University not relevant.</narrative>
   </topic>
    <topic number="5">
     <title>Neural Ranking for eCommerce Product Search</title>
-    <description>Which paper is about Ranking Product Search and it`s applications in eCommerce?</description>
+    <description>Which paper is about Ranking Product Search and its applications in eCommerce?</description>
     <narrative>Relevant papers that addresses application of Task Models and Textual Embeddings in the field of electronic
       commerce. Not relevant are papers showcasing applications that do not contain the topic eCommerce.</narrative>
   </topic>
