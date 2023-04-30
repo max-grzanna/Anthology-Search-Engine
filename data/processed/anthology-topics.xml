@@ -28,4 +28,9 @@
     <narrative>Relevant papers that addresses application of Task Models and Textual Embeddings in the field of electronic
       commerce. Not relevant are papers showcasing applications that do not contain the topic eCommerce.</narrative>
   </topic>
+   <topic number="6">
+    <title>web pages evolution</title>
+    <description>Which paper is about the evolution of web pages?</description>
+    <narrative>Relevant paper have at least one mention of web evolution. Paper containing only web page or evolution are not relevant.</narrative>
+  </topic>
 </topics>
