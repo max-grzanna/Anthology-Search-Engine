@@ -1,15 +1,17 @@
 <topics>
+  <!-- Julian Teichmann -->
   <topic number="1">
     <title>Deep Neural Networks</title>
     <description>Which papers talk about Deep Neural Networks?</description>
     <narrative>Relevant papers have at least one mention of Deep Neural. Paper containing only Deep or Neural are not relevant.</narrative>
   </topic>
+  <!-- Yelyzaveta Kosinova -->
   <topic number="2">
     <title>Information Retrieval</title>
     <description>Which papers talk about Information Retrieval?</description>
     <narrative>Relevant paper have at least one mention of Information Retrieval. Paper containing only Information or Retrieval are not relevant.</narrative>
   </topic>
-  
+  <!-- Maximilian Töpfer 3775221 -->
   <topic number="3">
     <title>Analysis for Android apps</title>
     <description>Which papers talk about the analysis of android apps?</description>
@@ -28,6 +30,7 @@
     <narrative>Relevant papers that addresses application of Task Models and Textual Embeddings in the field of electronic
       commerce. Not relevant are papers showcasing applications that do not contain the topic eCommerce.</narrative>
   </topic>
+  <!-- Theo Hahn -->
    <topic number="6">
     <title>web pages evolution</title>
     <description>Which paper is about the evolution of web pages?</description>
