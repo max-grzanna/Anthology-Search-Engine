@@ -19,21 +19,18 @@ class AnthologyDocument(NamedTuple):
 ir_datasets.registry.register(
     'anthologies',
     Dataset(
-        JsonlDocs(
-            ir_datasets.util.Download(
-                [RequestsDownload(DATASET_URL + "anthology-documents.jsonl")],
-            ),
-            doc_cls=AnthologyDocument,
-            lang="en",
+        JsonlDocs(ir_datasets.util.PackageDataFile(
+            path='datasets_in_progress/pangram-documents.jsonl'), 
+            doc_cls=PangramDocument, 
+            lang='en'
         ),
-        TrecXmlQueries(
-            ir_datasets.util.Download(
-                [RequestsDownload(DATASET_URL + "anthology-topics.xml")],
-            ),
-            lang="en",
+        TrecXmlQueries(ir_datasets.util.PackageDataFile(
+            path='datasets_in_progress/pangram-topics.xml'), 
+            lang='en'
         ),
-        TrecQrels(ir_datasets.util.Download([RequestsDownload(DATASET_URL + 'anthology-qrels.txt')],
-                                            ),
-                  {0: 'Not Relevant', 1: 'Relevant'})
-    ),
+        TrecQrels(ir_datasets.util.PackageDataFile(
+            path='datasets_in_progress/pangram-qrels.txt'),
+            {0: 'Not Relevant', 1: 'Relevant'}
+            )
+        ),
 )
