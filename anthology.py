@@ -14,7 +14,8 @@ class IrAnthologyDocument(NamedTuple):
     def default_text(self):
         return self.title + ' ' + self.abstract
 
-ir_datasets.registry.register('iranthology-memory', Dataset(
-    JsonlDocs(ir_datasets.util.PackageDataFile(path='datasets_in_progress/anthology-documents.jsonl'), doc_cls=IrAnthologyDocument, lang='en'),
-    TrecXmlQueries(ir_datasets.util.PackageDataFile(path='datasets_in_progress/anthology-topics.xml'), lang='en')
+ir_datasets.registry.register('iranthology-memory', 
+    Dataset(
+        JsonlDocs(ir_datasets.util.PackageDataFile(path='datasets_in_progress/ir-anthology-processed.jsonl'), doc_cls=IrAnthologyDocument, lang='en'),
+        TrecXmlQueries(ir_datasets.util.PackageDataFile(path='datasets_in_progress/anthology-topics.xml'), lang='en')
 ))
