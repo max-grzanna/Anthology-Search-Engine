@@ -1,1 +1,1 @@
-tira-run --output-directory ${PWD}/data --image anthology --command '/irds_cli.sh --ir_datasets_id anthologies --output_dataset_path $outputDir'
+tira-run --output-directory ${PWD}/iranthology-dataset-tira --image registry.webis.de/code-research/tira/tira-user-ir-lab-sose-2023-memory/ir-datasets:latest --command '/irds_cli.sh --ir_datasets_id iranthology-memory --output_dataset_path $outputDir'  

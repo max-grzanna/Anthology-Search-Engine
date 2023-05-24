@@ -1,0 +1,118 @@
+<topics ir-datasets-id="iranthology-memory">
+ <topic number="1">
+  <query>
+   Deep Neural Networks
+  </query>
+  <original_query>
+   <query_id>
+    1
+   </query_id>
+   <title>
+    Deep Neural Networks
+   </title>
+   <description>
+    Which papers talk about Deep Neural Networks?
+   </description>
+   <narrative>
+    Relevant papers have at least one mention of Deep Neural. Paper containing only Deep or Neural are not relevant.
+   </narrative>
+  </original_query>
+ </topic>
+ <topic number="2">
+  <query>
+   Information Retrieval
+  </query>
+  <original_query>
+   <query_id>
+    2
+   </query_id>
+   <title>
+    Information Retrieval
+   </title>
+   <description>
+    Which papers talk about Information Retrieval?
+   </description>
+   <narrative>
+    Relevant paper have at least one mention of Information Retrieval. Paper containing only Information or Retrieval are not relevant.
+   </narrative>
+  </original_query>
+ </topic>
+ <topic number="3">
+  <query>
+   Analysis for Android apps
+  </query>
+  <original_query>
+   <query_id>
+    3
+   </query_id>
+   <title>
+    Analysis for Android apps
+   </title>
+   <description>
+    Which papers talk about the analysis of android apps?
+   </description>
+   <narrative>
+    Relevant papers talk at least in one line about android apps. Paper containing only apps are not relevant.
+   </narrative>
+  </original_query>
+ </topic>
+ <topic number="4">
+  <query>
+   The University of Amsterdam
+  </query>
+  <original_query>
+   <query_id>
+    4
+   </query_id>
+   <title>
+    The University of Amsterdam
+   </title>
+   <description>
+    Which papers are created by the University of Amsterdam?
+   </description>
+   <narrative>
+    Relevant papers are created or at least co-written by the University of Amsterdam. Paper containing only
+      University not relevant.
+   </narrative>
+  </original_query>
+ </topic>
+ <topic number="5">
+  <query>
+   Neural Ranking for eCommerce Product Search
+  </query>
+  <original_query>
+   <query_id>
+    5
+   </query_id>
+   <title>
+    Neural Ranking for eCommerce Product Search
+   </title>
+   <description>
+    Which paper is about Ranking Product Search and its applications in eCommerce?
+   </description>
+   <narrative>
+    Relevant papers that addresses application of Task Models and Textual Embeddings in the field of electronic
+      commerce. Not relevant are papers showcasing applications that do not contain the topic eCommerce.
+   </narrative>
+  </original_query>
+ </topic>
+ <topic number="6">
+  <query>
+   web pages evolution
+  </query>
+  <original_query>
+   <query_id>
+    6
+   </query_id>
+   <title>
+    web pages evolution
+   </title>
+   <description>
+    Which paper is about the evolution of web pages?
+   </description>
+   <narrative>
+    Relevant paper have at least one mention of web evolution. Paper containing only web page or evolution are not relevant.
+   </narrative>
+  </original_query>
+ </topic>
+</topics>

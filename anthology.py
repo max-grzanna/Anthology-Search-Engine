@@ -1,5 +1,5 @@
 import ir_datasets
-from ir_datasets.formats import JsonlDocs, TrecXmlQueries
+from ir_datasets.formats import JsonlDocs, TrecXmlQueries, TrecQrels
 from typing import NamedTuple
 from ir_datasets.datasets.base import Dataset
 
@@ -18,4 +18,5 @@ ir_datasets.registry.register('iranthology-memory',
     Dataset(
         JsonlDocs(ir_datasets.util.PackageDataFile(path='datasets_in_progress/ir-anthology-processed.jsonl'), doc_cls=IrAnthologyDocument, lang='en'),
         TrecXmlQueries(ir_datasets.util.PackageDataFile(path='datasets_in_progress/anthology-topics.xml'), lang='en')
+        TrecQrels(ir_datasets.util.PackageDataFile(path='datasets_in_progress/anthology-qrels.txt'), {0: 'Not Relevant', 1: 'Relevant'})
 ))
