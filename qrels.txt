@@ -1,13 +1,13 @@
 1 0 2016.sigirconf_conference-2016.231 1
 1 0 2020.jasis_journal-ir0anthology0volumeA71A11.3 1
-1 0 2019.mir_conference-2019.31 1
-1 0 2020.wsdm_conference-2020.4 1
+1 0 2019.mir_conference-2019.31 3 1
+1 0 2020.wsdm_conference-2020.4 4 1
 1 0 2018.wwwconf_conference-2018.180 1
 1 0 2018.wsdm_conference-2018.102 1
 1 0 2018.cikm_workshop-2018w.17 1
 1 0 2019.wwwjournals_journal-ir0anthology0volumeA22A2.8 1
 1 0 2018.wwwconf_conference-2018.46 1
-1 0 2016.mir_conference-2016.43 1
+1 0 2016.mir_conference-2016.43 10 1
 1 0 2020.wwwconf_conference-2020c.107 1
 1 0 2018.tist_journal-ir0anthology0volumeA9A6.8 1
 1 0 2018.ijmir_journal-ir0anthology0volumeA7A1.1 1
@@ -53,7 +53,7 @@
 2 0 2010.ntcir_workshop-2010.21 1
 2 0 1990.sigirjournals_journal-ir0anthology0volumeA24A3.10 1
 2 0 2017.sigirjournals_journal-ir0anthology0volumeA51A3.1 1
-2 0 1991.jasis_journal-ir0anthology0volumeA42A1.7 1
+2 0 1991.jasis_journal-ir0anthology0volumeA42A1.7  1
 2 0 2008.ntcir_workshop-2008.28 1
 2 0 2011.tois_journal-ir0anthology0volumeA29A2.0 1
 2 0 2010.sigirjournals_journal-ir0anthology0volumeA44A2.20 1
@@ -156,8 +156,8 @@
 5 0 2006.ipm_journal-ir0anthology0volumeA42A4.12 1
 5 0 2017.cikm_conference-2017.302 1
 5 0 2008.wwwconf_workshop-2008l.7 1
-5 0 2018.sigirconf_workshop-2018ecom.6 1
-5 0 2016.clef_conference-2016.14 1
+5 0 2018.sigirconf_workshop-2018ecom.6  1
+5 0 2016.clef_conference-2016.14  1
 5 0 2020.sigirconf_conference-2020.364 1
 5 0 2019.tois_journal-ir0anthology0volumeA37A2.5 1
 5 0 2011.cikm_conference-2011.281 1

@@ -17,6 +17,6 @@ class IrAnthologyDocument(NamedTuple):
 ir_datasets.registry.register('iranthology-memory', 
     Dataset(
         JsonlDocs(ir_datasets.util.PackageDataFile(path='datasets_in_progress/ir-anthology-processed.jsonl'), doc_cls=IrAnthologyDocument, lang='en'),
-        TrecXmlQueries(ir_datasets.util.PackageDataFile(path='datasets_in_progress/anthology-topics.xml'), lang='en')
+        TrecXmlQueries(ir_datasets.util.PackageDataFile(path='datasets_in_progress/anthology-topics.xml'), lang='en'),
         TrecQrels(ir_datasets.util.PackageDataFile(path='datasets_in_progress/anthology-qrels.txt'), {0: 'Not Relevant', 1: 'Relevant'})
 ))
