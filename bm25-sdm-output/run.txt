@@ -1,0 +1,5 @@
+2 0 2003.sigirconf_conference-2003.73 1 3.794061913322113 BM25
+2 0 2015.ictir_conference-2015.2 2 3.6996110607073303 BM25
+2 0 2011.tois_journal-ir0anthology0volumeA29A2.0 3 3.6672090176983567 BM25
+2 0 2006.ipm_journal-ir0anthology0volumeA42A1.2 4 3.619692141835906 BM25
+2 0 2012.sigirjournals_journal-ir0anthology0volumeA46A1.9 5 3.6185346786942922 BM25

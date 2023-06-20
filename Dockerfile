@@ -5,7 +5,6 @@ ADD iranthology-dataset-tira /workspace/
 RUN jupyter trust /workspace/*.ipynb
 ENTRYPOINT ["jupyter", "notebook", "--allow-root", "--ip", "0.0.0.0"]
 
-
 #FROM webis/tira-ir-datasets-starter:0.0.54
 #WORKDIR /
 #RUN apk add jq libffi-dev
